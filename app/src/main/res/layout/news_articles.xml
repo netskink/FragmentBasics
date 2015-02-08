@@ -15,7 +15,16 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
+<!--
+The following layout is an alternative to the layout shown in large layout
+.  This filename is the same at the layout in the previous lesson, but the
+the layout directory does not have the large qualifier so this layout is used
+when the device screen is smaller than large because the screen does not fit
+both fragments at the same time.
+-->
+
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/fragment_container"
     android:layout_width="match_parent"
     android:layout_height="match_parent" />
+
