@@ -1,0 +1,2 @@
+C:\Users\john\Documents\GitHub\FragmentBasics\app\build\intermediates\classes\debug
+C:\Users\john\Documents\GitHub\FragmentBasics\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-6dfa3ef255508d508a179ddea2833ad4ba20a6ce.jar
